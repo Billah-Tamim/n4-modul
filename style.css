@@ -12,7 +12,14 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-color: rgb(208, 239, 239);
+    background-color: rgba(0, 50, 251, 0.033);
+}
+#container_two{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: azure;
 }
 .top{
     width: 40%;
